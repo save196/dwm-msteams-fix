@@ -1,3 +1,6 @@
+!!! MS Teams in its most recent versions started to use the default notification system, so this patch is not needed anymore.
+Tested fixed versions of MS Teams > 1.3.00.25560
+
 # dwm-msteams-fix
 Patch to fix Microsoft Teams notifications problems in dwm window manager.
 
